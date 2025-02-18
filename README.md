@@ -1,6 +1,6 @@
-# 📈 Stock Market Analysis & Prediction using LSTM and Transformer
+# 📈 Stock Market Analysis & Prediction using LSTM
 
-Welcome to the **Stock Market Analysis & Prediction** project! This repository contains code and resources for analyzing stock market data and making predictions using advanced deep learning models, specifically Long Short-Term Memory (LSTM) and Transformer models.
+Welcome to the **Stock Market Analysis & Prediction** project! This repository contains code and resources for analyzing stock market data and making predictions using advanced deep learning models, specifically Long Short-Term Memory (LSTM).
 
 ## 🌟 Features
 
